@@ -7,16 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/sarvesh2603" target="blank"><img src="https://img.shields.io/twitter/follow/sarvesh2603?logo=twitter&style=for-the-badge" alt="sarvesh2603" /></a> </p>
 
+---
 
-- 🔭 I’m currently working on [Freelance Projects](https://apjkalamtech.netlify.app)
+🔭 I’m currently crafting magic with [Freelance Projects](https://apjkalamtech.netlify.app)
 
-- 🌱 I’m currently learning *Next Js*
+🌱 Learning the ins and outs of Next Js
 
-- 👯 I’m looking to collaborate on *M E R N stack projects*
+👯 Open to synergizing on M E R N stack projects
 
-- 📫 How to reach me *susindransarvesh@gmail.com*
+📫 Reach out at susindransarvesh@gmail.com
 
-- ⚡ Fun fact *My @0sarvesh github account got flagged for no reason 🤣*
+⚡ Fun fact: My @0sarvesh GitHub account got mysteriously flagged 🚩
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
