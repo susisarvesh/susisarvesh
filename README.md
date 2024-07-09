@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S A R V E S H</h1>
-<h3 align="center">Final Year Student Aspiring Fullstack Developer 🤙</h3>
+<h3 align="center">  </h3>
 <img alight="center" alt="Coding" width="600" object-fit ="cover" src="https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0sarvesh&label=Profile%20views&color=0e75b6&style=flat" alt="0sarvesh" /> </p>
@@ -7,28 +7,24 @@
 <p align="left"> <a href="https://twitter.com/sarvesh2603" target="blank"><img src="https://img.shields.io/twitter/follow/sarvesh2603?logo=twitter&style=for-the-badge" alt="sarvesh2603" /></a> </p>
 
 
-- 🔭 I’m currently working on [Fullstack projects](https://github.com/0sarvesh/webchat_app-Fullstack)
+- 🔭 I’m currently working on [Freelance Projects](https://apjkalamtech.netlify.app)
 
 - 🌱 I’m currently learning *Next Js*
 
 - 👯 I’m looking to collaborate on *M E R N stack projects*
 
-- 💬 Ask me about *Javascript , MERN , Python*
-
 - 📫 How to reach me *susindransarvesh@gmail.com*
-
-- 📄 Know about my experiences [https://ik.imagekit.io/imagespath/Sarvesh%20S%20Resume%202024%20(3).pdf?updatedAt=1715686276269](https://ik.imagekit.io/imagespath/Sarvesh%20S%20Resume%202024%20(3).pdf?updatedAt=1715686276269)
 
 - ⚡ Fun fact *I think I am Funny 🤣*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarvesh2603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarvesh2603" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarvesh-susi-07ab45299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarvesh-susi-07ab45299/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sarvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sarvs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sarveshsusindra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarveshsusindra1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sarvs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarvs/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/susindranechy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="susindranechy" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/sarvesh-susi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarvesh-susi" height="30" width="40" /></a>
+
+
+<a href="https://leetcode.com/u/Sarvs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarvs/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
