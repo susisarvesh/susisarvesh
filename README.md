@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *susindransarvesh@gmail.com*
 
-- ⚡ Fun fact *I think I am Funny 🤣*
+- ⚡ Fun fact *My @0sarvesh github account got flagged for no reason 🤣*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
