@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I’m currently crafting magic with [Freelance Projects](https://apjkalamtech.netlify.app)
+🔭 I’m currently crafting magic with Freelance Projects
 
 🌱 Learning the ins and outs of Next Js
 
